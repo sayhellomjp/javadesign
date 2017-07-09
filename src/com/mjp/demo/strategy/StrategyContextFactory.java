@@ -1,7 +1,7 @@
 package com.mjp.demo.strategy;
 
 /**
- * Created by HAHAHA on 2017/4/14.
+ * 这里工厂实际替换了环境角色，将策略的创建变成在工厂由类型判断来创建对应的具体策略
  */
 public class StrategyContextFactory {
 
