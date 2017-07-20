@@ -1,7 +1,7 @@
 package com.mjp.demo.observer.demo1;
 
 /**
- * Created by HAHAHA on 2017/7/19.
+ * 客户端
  */
 public class Client {
 
@@ -15,9 +15,13 @@ public class Client {
         //观察者2
         Observer observer2 = new ConcreteObserver();
 
+        //观察者3
+        Observer observer3 = new ConcreteObserver2();
+
         //订阅
         subject.registerObserver(observer1);
         subject.registerObserver(observer2);
+        subject.registerObserver(observer3);
 
         //主题对象状态改变
         subject.change("状态1");

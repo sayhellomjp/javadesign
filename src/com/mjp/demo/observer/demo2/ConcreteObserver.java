@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * Created by HAHAHA on 2017/7/19.
+ * 具体的观察者，实现Observer接口
  */
 public class ConcreteObserver implements Observer {
 

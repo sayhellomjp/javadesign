@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * Created by HAHAHA on 2017/7/19.
+ * 主题对象，继承Observable类
  */
 public class ConcreteSubject extends Observable {
 

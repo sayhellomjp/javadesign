@@ -1,7 +1,7 @@
 package com.mjp.demo.observer.demo2;
 
 /**
- * Created by HAHAHA on 2017/7/19.
+ * 客户端
  */
 public class Client {
 
