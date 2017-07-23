@@ -1,7 +1,7 @@
 package com.mjp.demo.state.demo1;
 
 /**
- * Created by HAHAHA on 2017/7/21.
+ * 客户端
  */
 public class Client {
 

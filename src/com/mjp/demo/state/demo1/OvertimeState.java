@@ -1,7 +1,7 @@
 package com.mjp.demo.state.demo1;
 
 /**
- * Created by HAHAHA on 2017/7/21.
+ * 加班的工作状态
  */
 public class OvertimeState implements State {
     @Override
