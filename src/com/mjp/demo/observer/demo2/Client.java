@@ -13,6 +13,7 @@ public class Client {
         ConcreteObserver observer = new ConcreteObserver(subject);
 
         //主题对象状态改变
+
         subject.setData("test2");
         subject.setData("test3");
     }
