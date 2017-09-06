@@ -15,9 +15,10 @@ public class OuterClass {
 
     //成员内部类
     public class InnerClass {
+        private String innerName = "inner";
         public void display(){
             System.out.println(OuterClass.this.age);
-            System.out.println("name:" + name + " age:" + age);
+            System.out.println("name:" + name + " age:" + age + " innerName:" + this.innerName);
         }
 
         public OuterClass getOut(){
