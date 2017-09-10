@@ -1,4 +1,4 @@
-package com.mjp.demo.decorator1;
+package com.mjp.demo.decorator.decorator1;
 
 /**
  * 具体的实现类，装饰类修饰的就是该类

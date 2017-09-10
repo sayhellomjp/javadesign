@@ -1,6 +1,4 @@
-package com.mjp.demo.decorator1;
-
-import com.mjp.demo.decorator.Component;
+package com.mjp.demo.decorator.decorator1;
 
 /**
  * Created by hahaha on 2017/7/9.
